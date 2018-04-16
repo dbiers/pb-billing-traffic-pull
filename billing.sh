@@ -1,5 +1,4 @@
 #!/bin/bash
-set -x
 read -p "ProfitBricks Contract Number (eg. 031764312): " contract
 read -p "ProfitBricks Username: " username
 read -sp "ProfitBricks Password: " password
